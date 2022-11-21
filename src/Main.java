@@ -10,6 +10,5 @@ public class Main {
             this.name=name;
             this.surName=surName;
         return name+surName;
-
     }
     }
